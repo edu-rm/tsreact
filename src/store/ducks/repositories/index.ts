@@ -1,0 +1,1 @@
+// reducer, como se fosse o principal do módulo dentro do redux
