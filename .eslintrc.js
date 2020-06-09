@@ -1,4 +1,5 @@
 // Eslintrc: como nossa guia de estilo vai funcionar.
+
 module.exports = {
   env: {
     // rodando no browser e rodando com as funcionalidades do ecmascript6
